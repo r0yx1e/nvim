@@ -92,3 +92,7 @@ luac.out
 *.x86_64
 *.hex
 
+.neoconf.json
+lazy-lock.json
+lazyvim.json
+stylua.toml
